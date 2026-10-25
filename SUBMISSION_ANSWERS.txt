@@ -1,0 +1,34 @@
+====================================================================
+PROMPTWARS VIRTUAL — [CHALLENGE 5] CELEBRATION & EVENT PLANNER
+READY-TO-PASTE HACK2SKILL SUBMISSION ANSWERS & CHECKLIST
+====================================================================
+
+1. QUESTION 1: Describe the changes you have made in the deployed version
+--------------------------------------------------------------------
+[Option A — Short (<100 characters, strict character-limit safe)]:
+Built a GenAI Event Planner for weddings, birthdays & community events with live budgets & timelines.
+
+[Option B — Detailed (<240 characters)]:
+Added multi-event AI templates (Weddings, Birthdays, Community), interactive Chart.js budget rebalancing, day-of run-of-show generator, vendor negotiation scripts, and live SVG invite studio.
+
+2. QUESTION 2: GenAI services / tools which you have used
+--------------------------------------------------------------------
+[Option A — Short (<100 characters, strict character-limit safe)]:
+Google Antigravity IDE, Google Gemini 2.5 Flash API, and Intent-Driven Prompt Engineering.
+
+[Option B — Detailed (<200 characters)]:
+Used Google Antigravity for vibe coding and Google Gemini 2.5 Flash API for automated budget allocation, run-of-show scheduling, vendor negotiation scripts, and personalized event ideation.
+
+3. LINKEDIN "BUILD-IN-PUBLIC" POST (NO DOUBLE QUOTES, READY TO POST)
+--------------------------------------------------------------------
+Just built and deployed UtsavAI — a GenAI-powered Celebration & Event Planning Assistant for PromptWars Virtual [Challenge 5] Celebration & Event Planner!
+
+Using intent-driven vibe coding with Google Antigravity and Gemini, I architected an all-in-one planner that helps organize weddings, milestone birthdays, and community events in seconds:
+• Smart Budget Studio: Real-time Planned vs. Actual charts, per-guest cost math, and 1-click 15% AI Cost-Saver rebalancing
+• Master Timeline & Run-of-Show: Pre-event countdown milestones + AI hour-by-hour event day schedule generator
+• Vendor Checklist & Negotiation Hub: Contract verification + automated partner discount scripts
+• Personalized Ideas & Invite Studio: Curated decor, menu, and entertainment concepts + downloadable SVG invitation cards
+
+Excited to keep building in public with @Google for Developers and @Hack2skill!
+
+#PromptWars #BuildWithAI #GoogleForDevelopers #Hack2skill #GoogleAntigravity #Challenge5 #GenAI #VibeCoding
